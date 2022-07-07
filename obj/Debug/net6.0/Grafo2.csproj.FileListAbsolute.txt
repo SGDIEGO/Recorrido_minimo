@@ -1,0 +1,15 @@
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\bin\Debug\net6.0\Grafo2.exe
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\bin\Debug\net6.0\Grafo2.deps.json
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\bin\Debug\net6.0\Grafo2.runtimeconfig.json
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\bin\Debug\net6.0\Grafo2.dll
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\bin\Debug\net6.0\Grafo2.pdb
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\obj\Debug\net6.0\Grafo2.csproj.AssemblyReference.cache
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\obj\Debug\net6.0\Grafo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\obj\Debug\net6.0\Grafo2.AssemblyInfoInputs.cache
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\obj\Debug\net6.0\Grafo2.AssemblyInfo.cs
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\obj\Debug\net6.0\Grafo2.csproj.CoreCompileInputs.cache
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\obj\Debug\net6.0\Grafo2.dll
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\obj\Debug\net6.0\refint\Grafo2.dll
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\obj\Debug\net6.0\Grafo2.pdb
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\obj\Debug\net6.0\Grafo2.genruntimeconfig.cache
+C:\Users\51916\OneDrive\Escritorio\C#\Grafo2\obj\Debug\net6.0\ref\Grafo2.dll
